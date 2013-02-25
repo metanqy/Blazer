@@ -1,8 +1,8 @@
 //
 // Blazer.h
 // 
-// Module: Sabre
-// Filter: Text
+// Module: Blazer
+// Filter: 
 //
 
 #ifndef __BLAZER_BLAZER_H__
